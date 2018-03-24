@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RESTex</string>
+    <string-array name="types">
+        <item>atm</item>
+        <item>hospital</item>
+        <item>park</item>
+    </string-array>
+</resources>
