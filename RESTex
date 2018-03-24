@@ -1,0 +1,4 @@
+fetching information from google api server to get nearby atm information showing.
+Three depencies used
+retrofit2 = fething server info
+gson = json object to java,java to json object
